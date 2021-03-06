@@ -1,2 +1,5 @@
 # hello-world
-the test repository
+
+hello guys!
+
+I like C, Linux and MineCraft! 
